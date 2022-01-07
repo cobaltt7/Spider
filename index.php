@@ -1,5 +1,4 @@
 <?php
-set_time_limit(60);
 $to_scan     = json_decode(file_get_contents("toscan.json"));
 $past_urls   = json_decode(file_get_contents("spider.json"));
 $url_count   = count($to_scan);
