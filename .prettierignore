@@ -1,4 +1,2 @@
-*.min.*
-!*.min.*.map
-/vendor/
-/node_modules/
+spider.json
+toscan.json

@@ -1,7 +1,3 @@
-/vendor/
-/node_modules/
-.env
-.DS_STORE
-composer.lock
 error_log
-package-lock.json
+spider.json
+toscan.json
